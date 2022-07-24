@@ -4,3 +4,6 @@ migrations,
 __pycache__,
 manage.py,
 settings.py
+tests.py
+calc.py
+settings.py
